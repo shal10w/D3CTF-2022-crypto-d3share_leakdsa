@@ -187,9 +187,9 @@ Construct a Lattice like
 $$
 M = \left[
 \begin{matrix}
-p*2^{K_0} & 0&\cdots & 0\\
-0 & p*2^{K_1}&\cdots & 0\\
-\vdots&\vdots&\ddots & p*2^{K_t}\\
+q*2^{K_0} & 0&\cdots & 0\\
+0 & q*2^{K_1}&\cdots & 0\\
+\vdots&\vdots&\ddots & q*2^{K_t}\\
 2^{m_0}*2^{K_0}&2^{m_1}*2^{K_1}&\cdots&2^{m_t}*2^{K_t}
 
 \end{matrix}
